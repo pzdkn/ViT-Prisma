@@ -8,7 +8,7 @@ install_requires = [
     'jaxtyping',    # Test dependency
     'einops',       # Test dependency
     'fancy_einsum', # Test dependency
-    'plotly==5.19.0',
+    'plotly',
     'timm',         # Test dependency
     'transformers', # Test dependency
     'scikit-learn', # Test dependency
